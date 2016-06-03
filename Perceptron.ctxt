@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=numInputs\ weightRange\ learningRate
+comment0.target=Perceptron(int,\ double,\ double)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\n\ Get\ a\ string\ representation\ of\ this\ perceptron.\n
+comment2.params=
+comment2.target=Perceptron\ makeHardcoded()
+comment2.text=\n\ \ Edit\ this\ method\ as\ you\ see\ fit,\ and\ then\ call\ it\ with\:\n\ \ Perceptron.makeHardcoded()\n\ \ to\ create\ a\ neuron\ with\ weights\ hardcoded\ as\ you\ would\ like,\n\ \ for\ testing\ by\ hand.\n
+comment3.params=inputs
+comment3.target=double\ computeOutput(double[])
+comment3.text=\n\ Determine\ the\ output\ this\ perceptron\ gives\ on\ the\ given\ inputs.\n
+comment4.params=inputs\ correctOutput
+comment4.target=void\ train1Example(double[],\ double)
+comment4.text=\n\ Update\ the\ weights\ based\ on\ correctOutput\ for\ the\ given\ inputs.\n
+comment5.params=examples\ perceptronID\ numEpochs
+comment5.target=void\ trainEpochs(Example[],\ int,\ int)
+comment5.text=\n\ Update\ the\ weights\ by\ training\ on\ the\ given\ examples.\n\ \n\ @param\ examples\ An\ array\ of\ Example\ objects.\n\ examples[0]\ is\ the\ Example\ object\ at\ index\ 0.\n\ examples[0].inputs\ is\ the\ array\ of\ doubles\ representing\ the\ inputs\ (but\ not\ the\ bias).\n\ examples[0].inputs[0]\ is\ the\ first\ (non-bias)\ input.\n\ examples[0].outputs\ is\ the\ array\ of\ doubles\ representing\ the\ ouputs.\n\ examples[0].outputs[perceptronID]\ is\ the\ correct\ output\ for\ this\ perceptron.\n\ \n\ @param\ perceptronID\ The\ identification\ of\ this\ perceptron,\ so\ we\ know\ which\ example\ output\n\ to\ train\ on.\n
+comment6.params=
+comment6.target=void\ testPerceptronOutput()
+comment7.params=
+comment7.target=void\ testPerceptronLearning()
+comment8.params=
+comment8.target=void\ testPerceptronLearning2()
+numComments=9

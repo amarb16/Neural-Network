@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=range
+comment0.target=RandomWeightGenerator(double)
+comment0.text=\r\n\ Creates\ a\ weight\ generator\ giving\ values\ in\ the\ range\r\n\ -range\ to\ range.\r\n
+comment1.params=
+comment1.target=double\ generateWeight()
+comment1.text=\r\n\ Returns\ the\ generated\ weight.\r\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=inputs
+comment0.target=Example(double[])
+comment0.text=\r\n\ Create\ an\ Example\ with\ the\ given\ inputs.\r\n\ Outputs\ will\ be\ null,\ and\ name\ will\ be\ the\ empty\ string.\r\n
+comment1.params=inputs\ outputs
+comment1.target=Example(double[],\ double[])
+comment1.text=\r\n\ Create\ an\ Example\ with\ the\ given\ inputs\ and\ outputs.\r\n\ name\ will\ be\ the\ empty\ string.\r\n
+comment2.params=inputs\ outputs\ name
+comment2.target=Example(double[],\ double[],\ java.lang.String)
+comment2.text=\r\n\ Create\ an\ Example\ with\ the\ given\ inputs,\ outputs,\ and\ name.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
